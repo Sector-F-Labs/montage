@@ -1,5 +1,10 @@
 # Montage
 
+> **Montage has moved.** It now lives in the
+> [patina-desktop](https://github.com/Sector-F-Labs/patina-desktop) repository, in
+> [`montage/`](https://github.com/Sector-F-Labs/patina-desktop/tree/develop/montage), with its
+> history. This repository is archived; issues and changes go there.
+
 ![Montage's icon](docs/icon.png)
 
 Montage is a video editor for home movies, in the spirit of iMovie and Windows Movie Maker
